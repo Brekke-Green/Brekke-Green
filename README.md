@@ -9,7 +9,6 @@
 - 😄 Pronouns: he/him/his
 - 🦾 Fun fact: I used to build/test exoskeletons (Yes, like Ironman)
 
-
 ![Brekke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brekke-Green&theme=gotham&show_icons=true&count_private=true&hide=stars,issues,contribs)
 
 
