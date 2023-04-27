@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Brekke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brekke-Green&theme=gotham&show_icons=true)
+
+![Brekke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brekke-Green&theme=gotham&show_icons=true&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brekke-Green&show_icons=true&theme=gotham&hide=tcl,html,css,powershell,scss)](https://github.com/anuraghazra/github-readme-stats)
