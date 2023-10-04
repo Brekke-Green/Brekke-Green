@@ -1,8 +1,8 @@
 ### Hi there, I'm Brekke 👋
 
 - 🔭 I’m currently working on BetaBook - A Climbing Journal App (React/TypeScript/Go)
-- 🌱 I’m currently learning - Go and TypeScript
-- 🤝 I’m looking to collaborate on - Building tools/Leveraging data (for good)
+- 🌱 I’m currently learning - Go (Specifically CLI applications with Cobra/Viper/Charm)
+- 🤝 I’m looking to collaborate on - Building tools/Leveraging data (ethically)
 - 🤔 I’m looking for help with - Best plugins for NeoVim 
 - 💬 Ask me about - Exercise/Climbing/Guitar/Photography
 - 💻 Languages - Python/JavaScript/Ruby/Go
