@@ -5,7 +5,7 @@
 - 🤝 I’m looking to collaborate on - Building tools/Learning from unique datasets
 - 🤔 I’m looking for help with - Best plugins for NeoVim 
 - 💬 Ask me about - Exercise/Climbing/Guitar/Photography
-- 💻 Languages - Python/JavaScript/Ruby/Go
+- 💻 Languages - Python/JavaScript/Go/Ruby
 - 📫 How to reach me: brekke.andrew.green@gmail.com
 - 😄 Pronouns: he/him/his
 - 🦾 Fun fact: I used to research/build exoskeletons (Yes, like Ironman)
