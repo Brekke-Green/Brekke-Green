@@ -1,6 +1,6 @@
 ### Hi there, I'm Brekke 👋
 
-- 🔭 I’m currently working on BetaBook - A Climbing Journal App (React/TypeScript/Go)
+- 🔭 I’m currently working on BetaBook - A Climbing Journal App (React/Go)
 - 🌱 I’m currently learning - Go (Specifically CLI applications with Cobra/Viper)
 - 🤝 I’m looking to collaborate on - Building tools/Learning from unique datasets
 - 🤔 I’m looking for help with - Best plugins for NeoVim 
