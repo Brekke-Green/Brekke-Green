@@ -1,6 +1,6 @@
 ### Hi there, I'm Brekke 👋
 
-- 🔭 I’m currently working on a food nutrition data app (React/Go)
+- 🔭 I’m currently working on building a Chrome Extension for elfur (React/Vite/JavaScript)
 - 🌱 I’m currently learning - Go (Building CLI applications with Cobra/Viper)
 - 🤝 I’m looking to collaborate on - Building tools/Learning from unique datasets
 - 🤔 I’m looking for help with - Best plugins for NeoVim 
