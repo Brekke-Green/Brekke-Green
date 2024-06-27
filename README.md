@@ -1,11 +1,11 @@
 ### Hi there, I'm Brekke 👋
 
 - 🔭 I’m currently working on a Chrome Extension for [elfur](https://www.elfur.ai/) (React/Vite/JavaScript)
-- 🌱 I’m currently learning - Go (Building CLI applications with Cobra/Viper)
+- 🌱 I’m currently learning - Cyber Security through Google's Certificates Program
 - 🤝 I’m looking to collaborate on - Building tools/Learning from unique datasets
 - 🤔 I’m looking for help with - Best plugins for NeoVim 
 - 💬 Ask me about - Exercise/Climbing/Guitar/Photography
-- 💻 Languages - Python/JavaScript/Go/Ruby
+- 💻 Languages - Python/JavaScript/Go
 - 📫 How to reach me: brekke.andrew.green@gmail.com
 - 😄 Pronouns: he/him/his
 - 🦾 Fun fact: I used to research/build exoskeletons (Yes, like Ironman)
