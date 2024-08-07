@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a Chrome Extension for [elfur](https://www.elfur.ai/) (React/Vite/JavaScript)
 - 🌱 I’m currently learning - Cyber Security through Google's Certificates Program
-- 🤝 I’m looking to collaborate on - Building tools/Learning from unique datasets
+- 🤝 I’m looking to collaborate on - Building CLI tools with Go
 - 🤔 I’m looking for help with - Best plugins for NeoVim 
 - 💬 Ask me about - Exercise/Climbing/Guitar/Photography
 - 💻 Languages - Python/JavaScript/Go
