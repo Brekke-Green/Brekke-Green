@@ -1,7 +1,7 @@
 ### Hi there, I'm Brekke 👋
 
-- 🔭 I’m currently working on a Chrome Extension for [elfur](https://www.elfur.ai/) (React/Vite/JavaScript)
-- 🌱 I’m currently learning - Cyber Security through Google's Certificates Program
+- 🔭 I’m currently working internal tools @ Bank of America (React/JavaScript/Python/Tornado)
+- 🌱 I’m currently learning C
 - 🤝 I’m looking to collaborate on - Building CLI tools with Go
 - 🤔 I’m looking for help with - Best plugins for NeoVim 
 - 💬 Ask me about - Exercise/Climbing/Guitar/Photography
