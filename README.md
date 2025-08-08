@@ -1,6 +1,6 @@
 ### Hi there, I'm Brekke 👋
 
-- 🔭 I’m currently building internal tools @ Bank of America (React/JavaScript/Python/Tornado)
+- 🔭 I’m currently building internal tools @ Bank of America (React/JavaScript/Python/Electron/Openfin)
 - 🌱 I’m currently learning C
 - 🤝 I’m looking to collaborate on - Building CLI tools with Go
 - 🤔 I’m looking for help with - Best plugins for NeoVim 
